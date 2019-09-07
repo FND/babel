@@ -2,7 +2,7 @@
 
 > **Tags:**
 > - :boom:       [Breaking Change]
-> - :eyeglasses: [Spec Compliancy]
+> - :eyeglasses: [Spec Compliance]
 > - :rocket:     [New Feature]
 > - :bug:        [Bug Fix]
 > - :memo:       [Documentation]
